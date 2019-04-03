@@ -1,0 +1,4 @@
+# Ignoring Jquery development file
+jquery-3-1.js
+# Ignoring all Cold Fusion Files
+*.cfm
